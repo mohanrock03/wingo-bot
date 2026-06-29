@@ -1,0 +1,6 @@
+{
+  "name": "Wingo Market Simulation Engine",
+  "description": "Advanced market simulation, virtual population modeling, and probabilistic research platform for Wingo markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
